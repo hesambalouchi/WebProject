@@ -1,0 +1,26 @@
+form {
+    display: block;
+    background: #161616cb;
+    box-shadow: 0px 0px 1px 1px #00000063;
+    width: 100%;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,25%);
+}
+
+input {
+    font-family: "Century Gothic";
+    direction: ltr;
+}
+
+
+.btn{
+    background-color: crimson;
+    color: white;
+}
+
+button:hover{
+    color: gray;
+}
